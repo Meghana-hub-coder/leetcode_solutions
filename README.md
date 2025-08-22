@@ -9,6 +9,7 @@
 | [0015-3sum](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/0042-trapping-rain-water) |
+| [0135-candy](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/0135-candy) |
 ## Hash Table
 |  |
 | ------- |
@@ -40,6 +41,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/0011-container-with-most-water) |
+| [0135-candy](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/0135-candy) |
 ## Sorting
 |  |
 | ------- |
