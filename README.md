@@ -35,6 +35,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/0013-roman-to-integer) |
+| [0326-power-of-three](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/0326-power-of-three) |
 ## Two Pointers
 |  |
 | ------- |
@@ -84,4 +85,8 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/0239-sliding-window-maximum) |
+## Recursion
+|  |
+| ------- |
+| [0326-power-of-three](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
