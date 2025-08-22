@@ -93,4 +93,8 @@
 |  |
 | ------- |
 | [0326-power-of-three](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/0326-power-of-three) |
+## Database
+|  |
+| ------- |
+| [0584-find-customer-referee](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/0584-find-customer-referee) |
 <!---LeetCode Topics End-->
