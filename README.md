@@ -27,6 +27,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/0013-roman-to-integer) |
 | [0567-permutation-in-string](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/0567-permutation-in-string) |
+| [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -50,6 +51,7 @@
 | [0042-trapping-rain-water](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/0042-trapping-rain-water) |
 | [0283-move-zeroes](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/0283-move-zeroes) |
 | [0567-permutation-in-string](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/0567-permutation-in-string) |
+| [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Greedy
 |  |
 | ------- |
@@ -103,4 +105,8 @@
 | [1258-article-views-i](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/1258-article-views-i) |
 | [1827-invalid-tweets](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/1908-recyclable-and-low-fat-products) |
+## Enumeration
+|  |
+| ------- |
+| [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 <!---LeetCode Topics End-->
