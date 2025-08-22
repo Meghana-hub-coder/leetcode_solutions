@@ -14,6 +14,7 @@
 | [0239-sliding-window-maximum](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/0283-move-zeroes) |
 | [0643-maximum-average-subarray-i](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/0643-maximum-average-subarray-i) |
+| [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 ## Hash Table
 |  |
 | ------- |
@@ -109,4 +110,12 @@
 |  |
 | ------- |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
+## Graph
+|  |
+| ------- |
+| [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 <!---LeetCode Topics End-->
