@@ -21,6 +21,7 @@
 | [0303-range-sum-query-immutable](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/0643-maximum-average-subarray-i) |
+| [0724-find-pivot-index](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/0724-find-pivot-index) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/0954-maximum-sum-circular-subarray) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1603-running-sum-of-1d-array](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/1603-running-sum-of-1d-array) |
@@ -105,6 +106,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0303-range-sum-query-immutable](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/0724-find-pivot-index) |
 | [1603-running-sum-of-1d-array](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/1603-running-sum-of-1d-array) |
 ## Queue
 |  |
