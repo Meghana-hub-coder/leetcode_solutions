@@ -30,6 +30,7 @@
 | [0049-group-anagrams](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0135-candy](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/0135-candy) |
@@ -254,4 +255,9 @@
 | [0036-valid-sudoku](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/0054-spiral-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
