@@ -39,6 +39,7 @@
 | [0064-minimum-path-sum](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/0068-text-justification) |
+| [0073-set-matrix-zeroes](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/0073-set-matrix-zeroes) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0135-candy](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/0135-candy) |
 | [0152-maximum-product-subarray](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/0152-maximum-product-subarray) |
@@ -67,6 +68,7 @@
 | [0037-sudoku-solver](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/0073-set-matrix-zeroes) |
 | [0560-subarray-sum-equals-k](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/0567-permutation-in-string) |
 ## String
@@ -272,6 +274,7 @@
 | [0059-spiral-matrix-ii](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/0073-set-matrix-zeroes) |
 ## Simulation
 |  |
 | ------- |
