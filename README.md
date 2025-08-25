@@ -38,6 +38,7 @@
 | [0063-unique-paths-ii](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/0066-plus-one) |
+| [0068-text-justification](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/0068-text-justification) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0135-candy](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/0135-candy) |
 | [0152-maximum-product-subarray](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/0152-maximum-product-subarray) |
@@ -87,6 +88,7 @@
 | [0032-longest-valid-parentheses](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/0049-group-anagrams) |
+| [0068-text-justification](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/0068-text-justification) |
 | [0567-permutation-in-string](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/0567-permutation-in-string) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Sliding Window
@@ -275,4 +277,5 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/0059-spiral-matrix-ii) |
+| [0068-text-justification](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/0068-text-justification) |
 <!---LeetCode Topics End-->
