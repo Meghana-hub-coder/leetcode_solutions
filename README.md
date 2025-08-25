@@ -21,6 +21,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/0954-maximum-sum-circular-subarray) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
+| [1603-running-sum-of-1d-array](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/1603-running-sum-of-1d-array) |
 | [1690-maximum-length-of-subarray-with-positive-product](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/1690-maximum-length-of-subarray-with-positive-product) |
 ## Hash Table
 |  |
@@ -99,6 +100,7 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [1603-running-sum-of-1d-array](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/1603-running-sum-of-1d-array) |
 ## Queue
 |  |
 | ------- |
