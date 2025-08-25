@@ -42,6 +42,7 @@
 | [0005-longest-palindromic-substring](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/0008-string-to-integer-atoi) |
+| [0010-regular-expression-matching](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/0010-regular-expression-matching) |
 | [0013-roman-to-integer](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/0013-roman-to-integer) |
 | [0567-permutation-in-string](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/0567-permutation-in-string) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
@@ -89,6 +90,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/0005-longest-palindromic-substring) |
+| [0010-regular-expression-matching](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/0010-regular-expression-matching) |
 | [0042-trapping-rain-water](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -135,6 +137,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/0002-add-two-numbers) |
+| [0010-regular-expression-matching](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/0010-regular-expression-matching) |
 | [0326-power-of-three](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/0326-power-of-three) |
 ## Database
 |  |
