@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/0053-maximum-subarray) |
@@ -54,6 +55,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/0042-trapping-rain-water) |
 | [0283-move-zeroes](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/0283-move-zeroes) |
@@ -69,6 +71,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/0018-4sum) |
 ## Dynamic Programming
 |  |
 | ------- |
