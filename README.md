@@ -11,6 +11,7 @@
 | [0042-trapping-rain-water](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/0053-maximum-subarray) |
 | [0135-candy](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/0135-candy) |
+| [0152-maximum-product-subarray](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/0152-maximum-product-subarray) |
 | [0209-minimum-size-subarray-sum](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/0283-move-zeroes) |
@@ -68,6 +69,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/0053-maximum-subarray) |
+| [0152-maximum-product-subarray](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/0152-maximum-product-subarray) |
 ## Stack
 |  |
 | ------- |
