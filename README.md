@@ -56,6 +56,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/0032-longest-valid-parentheses) |
+| [0038-count-and-say](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/0038-count-and-say) |
 | [0567-permutation-in-string](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/0567-permutation-in-string) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Sliding Window
