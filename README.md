@@ -17,6 +17,7 @@
 | [0239-sliding-window-maximum](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/0283-move-zeroes) |
 | [0643-maximum-average-subarray-i](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/0643-maximum-average-subarray-i) |
+| [0954-maximum-sum-circular-subarray](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/0954-maximum-sum-circular-subarray) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 ## Hash Table
 |  |
@@ -72,6 +73,7 @@
 | [0053-maximum-subarray](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/0152-maximum-product-subarray) |
+| [0954-maximum-sum-circular-subarray](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/0954-maximum-sum-circular-subarray) |
 ## Stack
 |  |
 | ------- |
@@ -92,6 +94,7 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/0239-sliding-window-maximum) |
+| [0954-maximum-sum-circular-subarray](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/0954-maximum-sum-circular-subarray) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -100,6 +103,7 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/0239-sliding-window-maximum) |
+| [0954-maximum-sum-circular-subarray](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/0954-maximum-sum-circular-subarray) |
 ## Recursion
 |  |
 | ------- |
@@ -128,4 +132,5 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/0053-maximum-subarray) |
+| [0954-maximum-sum-circular-subarray](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/0954-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->
