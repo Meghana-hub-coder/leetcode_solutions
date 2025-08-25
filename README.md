@@ -20,6 +20,7 @@
 | [0036-valid-sudoku](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/0066-plus-one) |
@@ -224,6 +225,7 @@
 | [0022-generate-parentheses](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/0040-combination-sum-ii) |
 ## String Matching
 |  |
 | ------- |
