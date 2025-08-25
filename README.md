@@ -45,6 +45,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/0013-roman-to-integer) |
 | [0326-power-of-three](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/0326-power-of-three) |
@@ -110,6 +111,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/0002-add-two-numbers) |
 | [0326-power-of-three](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/0326-power-of-three) |
 ## Database
 |  |
@@ -136,4 +138,8 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/0053-maximum-subarray) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/0954-maximum-sum-circular-subarray) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
