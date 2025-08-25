@@ -52,6 +52,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/0022-generate-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/0567-permutation-in-string) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Sliding Window
@@ -80,6 +81,7 @@
 | [0015-3sum](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/0042-trapping-rain-water) |
 | [0283-move-zeroes](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/0283-move-zeroes) |
 | [0567-permutation-in-string](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/0567-permutation-in-string) |
@@ -192,4 +194,8 @@
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/0022-generate-parentheses) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
