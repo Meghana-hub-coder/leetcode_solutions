@@ -31,6 +31,7 @@
 | [0051-n-queens](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0135-candy](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/0135-candy) |
@@ -124,6 +125,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/0135-candy) |
 | [1690-maximum-length-of-subarray-with-positive-product](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/1690-maximum-length-of-subarray-with-positive-product) |
 ## Sorting
@@ -144,6 +146,7 @@
 | [0042-trapping-rain-water](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/0152-maximum-product-subarray) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
