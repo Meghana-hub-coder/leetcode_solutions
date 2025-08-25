@@ -36,6 +36,7 @@
 | [0057-insert-interval](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/0057-insert-interval) |
 | [0059-spiral-matrix-ii](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0135-candy](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/0135-candy) |
@@ -153,6 +154,7 @@
 | [0053-maximum-subarray](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/0064-minimum-path-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/0152-maximum-product-subarray) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
@@ -267,6 +269,7 @@
 | [0054-spiral-matrix](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/0064-minimum-path-sum) |
 ## Simulation
 |  |
 | ------- |
