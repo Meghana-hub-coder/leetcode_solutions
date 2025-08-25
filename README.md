@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/0015-3sum) |
@@ -129,6 +130,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0209-minimum-size-subarray-sum](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/0209-minimum-size-subarray-sum) |
 ## Prefix Sum
 |  |
@@ -182,6 +184,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/0053-maximum-subarray) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/0954-maximum-sum-circular-subarray) |
 ## Linked List
