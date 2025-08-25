@@ -9,6 +9,7 @@
 | [0015-3sum](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/0053-maximum-subarray) |
 | [0135-candy](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/0135-candy) |
 | [0209-minimum-size-subarray-sum](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/0239-sliding-window-maximum) |
@@ -66,6 +67,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/0053-maximum-subarray) |
 ## Stack
 |  |
 | ------- |
@@ -118,4 +120,8 @@
 |  |
 | ------- |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
