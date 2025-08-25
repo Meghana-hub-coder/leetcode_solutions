@@ -34,6 +34,7 @@
 | [0055-jump-game](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/0057-insert-interval) |
+| [0059-spiral-matrix-ii](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0135-candy](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/0135-candy) |
@@ -262,8 +263,10 @@
 | [0037-sudoku-solver](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/0059-spiral-matrix-ii) |
 ## Simulation
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/0059-spiral-matrix-ii) |
 <!---LeetCode Topics End-->
