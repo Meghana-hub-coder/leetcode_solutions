@@ -27,6 +27,7 @@
 | [0046-permutations](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -56,6 +57,7 @@
 | [0036-valid-sudoku](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/0049-group-anagrams) |
 | [0560-subarray-sum-equals-k](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/0567-permutation-in-string) |
 ## String
@@ -76,6 +78,7 @@
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/0038-count-and-say) |
+| [0049-group-anagrams](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/0049-group-anagrams) |
 | [0567-permutation-in-string](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/0567-permutation-in-string) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Sliding Window
@@ -128,6 +131,7 @@
 | [0016-3sum-closest](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/0049-group-anagrams) |
 ## Dynamic Programming
 |  |
 | ------- |
