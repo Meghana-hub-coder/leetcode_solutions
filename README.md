@@ -18,6 +18,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/0283-move-zeroes) |
+| [0560-subarray-sum-equals-k](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/0954-maximum-sum-circular-subarray) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
@@ -29,6 +30,7 @@
 | [0001-two-sum](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/0013-roman-to-integer) |
+| [0560-subarray-sum-equals-k](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/0567-permutation-in-string) |
 ## String
 |  |
@@ -100,6 +102,7 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1603-running-sum-of-1d-array](https://github.com/Meghana-hub-coder/leetcode_solutions/tree/master/1603-running-sum-of-1d-array) |
 ## Queue
 |  |
